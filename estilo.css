@@ -13,7 +13,7 @@ body, html{
 #foto-borda {
 	float: left;
 	margin-top: 120px;
-	margin-left: 30px;
+	margin-left: 35px;
 	position: absolute;
 	width: 40%;
 }
@@ -46,8 +46,8 @@ body, html{
 #gif {
  	margin-top: 150px;
  	position: absolute;
-	 width: 75%;
-	 margin-left: 5.5%;
+	width: 75%;
+	margin-left: 5vw;
 }
 
 #imagens-fundo {
@@ -68,7 +68,7 @@ position: absolute;
 }
 
 #mock-1 {
-	margin-left: 40px;
+	margin-left: 5vw;
 	margin-top: 70px;
 	position: absolute;
 	width: 80%;
@@ -78,7 +78,7 @@ position: absolute;
 	margin-top: 80px;
 	position: absolute;
 	width: 90%;
-	margin-left: 20px;
+	margin-left: 2vw;
 
 }
 
@@ -108,7 +108,7 @@ position: absolute;
 	color: white;
 	font-family: Montserrat Medium;
 	font-size: 3vw;
-	margin-left: 350px;
+	margin-left: 52vw;
 	padding-top: 20%;
 	width: 300px;
 }
@@ -117,7 +117,8 @@ position: absolute;
 	color: white;
 	font-family: Montserrat Medium;
 	font-size: 3vw;
-	margin-left: 350px;
+	margin-left: 52vw;
+
 	padding-top: 41.5%;
 }
 
@@ -125,7 +126,8 @@ position: absolute;
 	color: white;
 	font-family: Montserrat Medium;
 	font-size: 3vw;
-	margin-left: 350px;
+	margin-left: 52vw;
+
 	padding-top: 30%;
 }
 
@@ -133,12 +135,14 @@ position: absolute;
 	color: white;
 	font-family: Montserrat Medium;
 	font-size: 3vw;
-	margin-left: 350px;
+	margin-left: 52vw;
+
 	padding-top: 25%;
 }
 
 .linhaAmarela{
  width: 500px;
+ margin-left: 20vw;
 }
 
 #rodape {
@@ -156,7 +160,7 @@ position: absolute;
 }
 
 .video {
-	margin-left: 10%;
+	margin-left: 12vw;
 	margin-top: 20%;
 	margin-bottom: 10%;
 	width: 75%;
