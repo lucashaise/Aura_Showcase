@@ -23,7 +23,7 @@ body, html{
 }
 
 #frame {
-	margin-left: 50px;
+	margin-left: 5vw;
 	margin-top: 25px;
 	position: absolute;
 	width: 6%;
@@ -91,7 +91,7 @@ position: absolute;
 	color: white;
 	font-family: Montserrat Medium;
 	font-size: 3vw;
-	margin-left: 140px;
+	margin-left: 12vw;
 	padding-top: 7%;
 }
 
@@ -109,8 +109,8 @@ position: absolute;
 	font-family: Montserrat Medium;
 	font-size: 3vw;
 	margin-left: 52vw;
-	padding-top: 20%;
-	width: 300px;
+	padding-top: 10%;
+	width: 40vw;
 }
 
 #texto-4 {
@@ -119,7 +119,7 @@ position: absolute;
 	font-size: 3vw;
 	margin-left: 52vw;
 
-	padding-top: 41.5%;
+	padding-top: 36%;
 }
 
 #texto-5 {
@@ -128,7 +128,7 @@ position: absolute;
 	font-size: 3vw;
 	margin-left: 52vw;
 
-	padding-top: 30%;
+	padding-top: 24%;
 }
 
 #texto-6 {
@@ -137,12 +137,13 @@ position: absolute;
 	font-size: 3vw;
 	margin-left: 52vw;
 
-	padding-top: 25%;
+	padding-top: 23%;
 }
 
 .linhaAmarela{
  width: 500px;
- margin-left: 20vw;
+ margin-left: 15vw;
+ margin-top: 1vw;
 }
 
 #rodape {
@@ -164,7 +165,7 @@ position: absolute;
 	margin-top: 20%;
 	margin-bottom: 10%;
 	width: 75%;
-	height: 300px;
+	height: 40vw;
 }
 
 
